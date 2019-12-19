@@ -1,0 +1,65 @@
+{
+    "name": "Internap",
+    "description": "Internap Corporation (NASDAQ: INAP) is a leading technology provider of Internet infrastructure through both Colocation Business and Enterprise Services (including network connectivity, IP, bandwidth, and Managed Hosting), and Cloud Services (including...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-55-pm.gif",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "cloud",
+        "have api",
+        "isp",
+        "networks",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/internap\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Internap",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-55-pm.gif",
+            "humanURL": "http:\/\/www.internap.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/internap-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/internap"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/voxel"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.voxel.net\/docs\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/docs.internap.com\/developers\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/voxel"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/internap"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.internap.com\/"
+        }
+    ]
+}
